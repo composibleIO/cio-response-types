@@ -1,10 +1,10 @@
 [package]
-name = "tu_types"
+name = "cio_response_types"
 version = "0.1.0"
 edition = "2018"
 
 [lib]
-name = "tu_types"
+name = "cio_response_types"
 path = "lib.rs"
 
 [dependencies]
