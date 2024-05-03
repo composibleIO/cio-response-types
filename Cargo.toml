@@ -1,5 +1,5 @@
 [package]
-name = "cio_response_types"
+name = "cio-response-types"
 version = "0.1.0"
 edition = "2018"
 
